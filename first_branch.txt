@@ -1,0 +1,2 @@
+This is the text I added in the first branch that I made. 
+This is all a test to use git correctly and establish a procedure for me
